@@ -46,8 +46,8 @@ const Home = () => {
     />
 
 <Section
-        title="Solar For New Roofs"
-        description="Solar Roof Costs less than a New Roof Plus Sonal Panel"
+        title="Solar Roof"
+        description="Produce Clean Energy From Your Roof"
         backgroundImg="solar-roof.jpg"
         leftBtnText="Order Now"
         rightBtnText="Learn More"
